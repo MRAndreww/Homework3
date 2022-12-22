@@ -101,7 +101,7 @@ public class Main {
         int averageDaysForDiet = (totalDaysForFirstDiet + totalDaysForSecondDiet) / 2;
         System.out.println("Чтобы похудеть по первой дитете потребуется " + totalDaysForFirstDiet + " дней");
         System.out.println("Чтобы похудеть по второй дитете потребуется " + totalDaysForSecondDiet + " дней");
-        System.out.println("В среднем для похудения потебуется " + averageDaysForDiet + " день");
+        System.out.println("В среднем для похудения потебуется " + averageDaysForDiet + " день.");
     }
     public static void task8 () {
         System.out.println("Задача 8");
